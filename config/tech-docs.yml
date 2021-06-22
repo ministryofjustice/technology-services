@@ -8,7 +8,7 @@ service_link: /template-documentation-site
 
 # Links to show on right-hand-side of header
 header_links:
-  GitHub: https://github.com/ministryofjustice/template-documentation-site
+  GitHub: https://github.com/ministryofjustice/technology-services
 
 # Enables search functionality. This indexes pages only and is not recommended for single-page sites.
 enable_search: true
