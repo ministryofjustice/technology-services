@@ -28,5 +28,5 @@ max_toc_heading_level: 3
 prevent_indexing: true
 
 show_contribution_banner: true
-github_repo: ministryofjustice/template-documentation-site
+github_repo: ministryofjustice/technology-services
 github_branch: main
