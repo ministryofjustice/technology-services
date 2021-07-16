@@ -1,0 +1,23 @@
+---
+title: DHCP Overview
+last_reviewed_on: 2021-07-16
+review_in: 3 months
+---
+
+# <%= current_page.data.title %>
+
+Allow new devices for staff connected at a MoJ site via physcial network cable to retrieve a internet address and [MoJ DNS](dns.html) servers.
+
+## User needs
+
+Why do we do this thing?
+This allows Public internet connectivity for prison staff to enable modern devices
+
+## Principles
+
+Provide a self service portal for onsite administrators to add e.g. a static reservation for a printer
+
+
+## Tools
+
+The backend DHCP service will use the well established and open source version called ISC Kea running as containers in the AWS managed container service Fargate.
