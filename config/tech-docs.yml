@@ -1,13 +1,15 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: https://ministryofjustice.github.io/template-documentation-site
+host: https://ministryofjustice.github.io/template-services
 
 # Header-related options
-show_govuk_logo: true
-service_name: Template Documentation Site
-service_link: /template-documentation-site
+show_govuk_logo: false
+service_name: MoJ Technology Services
+service_link: /technology-services
+phase: Alpha
 
 # Links to show on right-hand-side of header
 header_links:
+  Home: /technology-services
   GitHub: https://github.com/ministryofjustice/technology-services
 
 # Enables search functionality. This indexes pages only and is not recommended for single-page sites.
