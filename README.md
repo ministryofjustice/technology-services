@@ -1,7 +1,7 @@
 # Ministry of Justice Technology Services
 
 ## About this repository
-This is the Ministry of Justice [Technology Services](https://github.com/orgs/ministryofjustice/teams/modernisation-platform) with information on repository and the teams that run them.
+This is the Ministry of Justice [Technology Services](https://github.com/orgs/ministryofjustice/teams/modernisation-platform) with information on the services and the teams that run them.
 
 ## Contents
 
