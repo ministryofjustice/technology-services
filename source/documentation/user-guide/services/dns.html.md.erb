@@ -1,22 +1,22 @@
 ---
 title: DNS Overview
-last_reviewed_on: 2021-06-23
+last_reviewed_on: 2021-08-03
 review_in: 3 months
 ---
 
 # <%= current_page.data.title %>
 
-Public internet connectivity for staff at MoJ sites where physcial network cable is required.
+Open and protected internet name lookup for staff devices.
 
 ## User needs
 
-Public internet address lookup to enable connectivity for modern devices
+Unlock access to the public internet to enable new devices.
 
 ## Principles
+Allow our staff access to modern devices by unlocking public internet.
 
-Provide a portal for site administrators to add and remove DNS zones for internal sercices
-DNS resolution and any public DNS requests will go to the [NCSC protective DNS service](https://ncsc.gov.uk/information/pdns).
+Prevent access to malware, ransomware, phishing attacks, viruses, malicious sites, and spyware.  [NCSC protective DNS service](https://ncsc.gov.uk/information/pdns).
 
 ## Tools
 
-The DNS system is using [BIND](https://www.isc.org/bind/) server running on AWS ECS Fargate service.
+The DNS service uses [BIND ISC](https://www.isc.org/bind/) containers running on the AWS ECS Fargate service.
