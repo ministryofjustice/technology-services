@@ -1,7 +1,7 @@
 # Ministry of Justice Technology Services
 
 ## About this repository
-This is the Ministry of Justice [Technology Services] repository, it holds information on the services we run and the teams who operate them.
+This is the Ministry of Justice [Technology Services](https://ministryofjustice.github.io/technology-services) repository, it holds information on the services we run and the teams who operate them.
 
 ## Contents
 
