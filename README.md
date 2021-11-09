@@ -12,7 +12,4 @@ Filenames must be `[something].html.md.erb`
 ## Contents
 
 This repository currently holds the Technology Services:
-- [Architecture Decision Record (ADR)](architecture-decision-record)
-- [Environment definitions](environments)
-- [Infrastructure as code](terraform)
 - [Source code for ministryofjustice.github.io/technology-services](source)
